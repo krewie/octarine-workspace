@@ -46,7 +46,10 @@ Example
 
 ## Vocabulary　語彙
 
-| 日本語 | reading |  |
+| 日本語 | 読み (よみ) | 意味 (いみ) |
 | --- | --- | --- |
-|  |  |  |
+| 健康 | けんこう | health |
+| 歩く | あるく | to walk |
+| 歩けば | あるけば | if (i / you) walk |
+| 何歩 | なんぽ | how many steps |
 |  |  |  |
