@@ -70,4 +70,25 @@ Example
 - 明日は体を軽く感じたいです。
 - 今は音楽を聞きたい。
 - 何のためです。
-- 健康のたも
+- 健康のためです。
+
+---
+
+## Notes
+
+- **聞く** = to listen
+- **聞こえる** = can be heard
+- **目標** is usually followed by **です** because it's a noun.
+- Use **歩きます** when describing your action.
+
+---
+
+#grammar 
+
+#health 
+
+#daily-life 
+
+#walking 
+
+#N5 
