@@ -1,0 +1,5 @@
+# Grammar
+
+## ～のために
+
+### Meaning: 
