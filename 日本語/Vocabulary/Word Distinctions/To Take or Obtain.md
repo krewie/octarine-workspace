@@ -1,60 +1,3 @@
-将　like in 将来　しょうらい
-
-# 将　ショウ
-
-Core idea: lead / command / something that is about to come
-
-将来　[しょうらい]
-
-future
-
-> 将来、日本に住みたい。
->
-> しょうらい、にほん　に　すみたい。
->
-> I want to live in Japan in the future.
-
-Other words:
-
-- 将軍 [しょうぐん]　shogun / military commander
-- 対象　たいしょう　general, leader, chief
-
-将 alone does not normally mean “Future”. That meaning comes from compound 将来。
-
----
-
-ハイ as in defeat or failure
-
-# 敗　ハイ
-
-Core idea: defeat / failure / lose.
-
-Readings:
-
-- 音読み: 　ハイ
-- 訓読み: 　敗れる　[やぶれる]　to be defeated.
-
-例えば:
-
-- 失敗　しっぱい　 —　failure, mistake
-- 敗北　はいぼく　　—　defeat
-- 勝敗　しょうはい　—　victory or defeat
-
-> 試合に敗れる。
->
-> しあい　に　やぶれる。
->
-> To lose a match.
-
-## Compare:
-
-- 勝　　ショウ・かつ　　win
-- 敗　　ハイ・やぶれる　lose
-
----
-
-捕る as in catch and not 取る as in acquire
-
 # 捕る【とる】
 
 ## Core meaning: catch / capture
@@ -154,26 +97,4 @@ The distinction between **捕る** and **獲る** can overlap:
 
 All four verbs are pronounced **とる**, but their kanji specifies what kind of “taking” is meant.
 
----
-
-如し as in likeness, like not 意味
-
-# 如し　ごとし
-
-Core idea: like / as / similar to
-
-This is an old-fashioned or literary expression. In modern Japanease, it often appears as:
-
-- **～の如し【～のごとし】** — is like…
-- **～の如く【～のごとく】** — like…, as if…
-- **～の如き【～のごとき】** — such as…, something like…
-
-例えば
-
-> 光陰矢の如し
-
----
-
-# Tags
-
-#将, #捕, #如
+**#取る, #捕る, #獲る, #撮る**
