@@ -37,4 +37,14 @@
 > - 最近、日本語の本を読みます。
 > - Ive been reading japanease books lately.
 
-/
+# この間　このあいだ　The other day / recently
+
+> - この間、新しい店に行きました。
+> - このあいだ、あたらしい　みせ　に　いきました。
+> - The other day, i went to the new store.
+
+# 今度　こんど　next time / this coming occasion
+
+> - この度、一緒に行きましょう。
+> - このど、いっしょ　に　いきましょう。
+> - Next time, lets go together.
