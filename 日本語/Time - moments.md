@@ -12,4 +12,6 @@
 
 # 今にも　いまにも　any moment now / looks about to…
 
-> - 
+> - 今にも雨が降りそうです。
+> - いま　に　あめ　が　おりそうです。
+> - It looks like its going to rain any moment.
