@@ -2,6 +2,10 @@
 
 > - 別の日に行きましょう。
 > - Lets go another day.
+> - The useful pattern here is **別に + negative**:
+>   - **別に問題はない。** — There’s no particular problem.
+>   - **別に欲しくない。** — I don’t particularly want it.
+>   - **別に気にしてない。** — I’m not particularly bothered by it.
 
 # たった今　たったいま　Just now, this very moment
 
