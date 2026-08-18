@@ -1,8 +1,6 @@
 # **飼育係の日誌**
 
-# Keepers Diary
-
-## ～薬効をもつ植物について～
+# Keeper’s Diary
 
 **Game:** BIOHAZARD
 
@@ -161,10 +159,8 @@
 
 ---
 
-> JAP MISSING
+May 15, 1998 — English localization only; no Japanese equivalent.
 
-> May 15, 1998 - ENGLISH localization, no japanease equivalent.
-> 
 > Even though i didn’t feel well,
 >
 > i decided to go to see Nancy.
@@ -224,21 +220,19 @@
 > 
 > Fever gone but itchy.
 > Hungry and eat doggie food.
-> Itchyt itchy Scott came.
+> Itchy itchy Scott came.
 > Ugly face so killed him.
-> Tasy.
+> Tasty.
 
 ---
 
-> Japanese version only / incorporated into May 19 in the English localization.
-> 
+Japanese version only. The equivalent material was merged into the May 19 entry in the English localization.
+
 > May 21, 1998
 > 
 > かゆい　かゆい　スコットー　きた
 > ひどいかおなんで　ころし
 > うまかっ　　です。
-
-> ENG missing
 
 ---
 
